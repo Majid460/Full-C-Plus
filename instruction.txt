@@ -1,0 +1,19 @@
+1: First of all enter the choice 1 to play.
+
+2: Then enter the choice 2 to see how to play the game.
+
+3: To exit the MENU.
+
+4: After this when you press 1 then enter the size of grid and no. of mines.
+
+5: Then a table print.
+
+6: After this their is two options.
+
+7: First Option is that press "p" to open cell.
+
+8: Press "f" to put a flag.
+
+9: Then if the cell open which have a mine then you lose the game.
+
+10: then if we put flag on the cell which have mine then we will the game.  
